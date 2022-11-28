@@ -57,7 +57,7 @@
            <div class="col-lg-6 col-xl-5">
                <div class="text-container">
                    <div class="section-title">WHAT TO EXPECT</div>
-                   <h2>Give me content here biko</h2>
+                   <h2>Expectations make you set for encounter</h2>
                    <p>Gain insight and knowledge regarding building godly marital foundations</p>
                    <a class="btn-solid-reg" href="https://forms.gle/czYbRBeC16jaEiZd9" target="_blank">Register</a>
                </div> 
