@@ -5,7 +5,7 @@
 <template>
   <nav id="navbarExample" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
    <div class="container">
-        <a class="navbar-brand logo-text" href="#"><img src="assets/images/logo1.png" alt="logo" class="logo-style"></a> 
+        <a class="navbar-brand logo-text" href="#"><img src="assets/images/Variant7.png" alt="logo" class="logo-style"></a> 
        <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
        </button>
