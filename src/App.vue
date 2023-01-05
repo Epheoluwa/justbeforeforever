@@ -39,7 +39,7 @@
                             first half of 2023</p>
                         <a class="btn-solid-lg" href="https://forms.gle/czYbRBeC16jaEiZd9" target="_blank">Register
                             Now</a>
-                        <h4 class="mt-4">Start: February 19th, 2023 </h4>
+                        <h4 class="mt-4">Start Date: February 19th, 2023 </h4>
                         <h4 class="mt-4">Fee: &#8358;25,000 </h4>
                     </div>
                 </div>
