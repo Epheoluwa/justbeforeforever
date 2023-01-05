@@ -40,7 +40,7 @@
                         <a class="btn-solid-lg" href="https://forms.gle/czYbRBeC16jaEiZd9" target="_blank">Register
                             Now</a>
                         <h4 class="mt-4">Start: February 19th, 2023 </h4>
-                        <h4 class="mt-4">Fee- &#8358;25,000 </h4>
+                        <h4 class="mt-4">Fee: &#8358;25,000 </h4>
                     </div>
                 </div>
                 <!-- <div class="col-lg-6 col-xl-7">
