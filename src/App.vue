@@ -55,8 +55,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
-                    <div class="image-container">
-                        <img class="img-fluid" src="assets/images/details-1.png" alt="alternative" />
+                    <div class="image-container mt-5">
+                        <img class="img-fluid" src="assets/images/image.png" alt="alternative" style="height:340px" />
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-5">
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container purpose-margin">
-                        <img class="img-fluid" src="assets/images/purposeimage.jpg" alt="alternative" />
+                        <img class="img-fluid" src="assets/images/image1.jpeg" alt="alternative" />
                     </div>
                 </div>
             </div>
